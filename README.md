@@ -1,4 +1,4 @@
-# Getting Started with Expence Tracker
+# Getting Started with Node Farm
 ![Node Farm](./assets/intro.png)
 Node Farm is an Node.js app where you can add new product and can open details page for each product
 ## Install app
